@@ -1,0 +1,34 @@
+                            <tr>
+                                <th rowSpan={2}>Prepaid SIM</th>
+                                <td><label htmlFor="Pre-one"><input type="checkbox" name="Pre-one" id="Pre-one"/>￦6,600 (1일권)</label></td>
+                                <td><label htmlFor="Pre-five"><input type="checkbox" name="Pre-five" id="Pre-five"/>￦27,500 (5일권)</label></td>
+                                <td><label htmlFor="Pre-teen"><input type="checkbox" name="Pre-teen" id="Pre-teen" onChange={handleChage} value=""/>￦38,500 (10일권)</label></td>
+                            </tr>
+                            <tr>
+                                <td>￦71,500 (30일권)</td>
+                                <td colSpan={2}></td>
+                            </tr>
+
+                            <tr>
+                                <th>Postpaid SIM</th>
+                                <td>￦27,500 (5일권)</td>
+                                <td>￦38,500 (10일권)</td>
+                                <td>￦71,500 (30일권)</td>
+                            </tr>
+                            <tr>
+                                <th rowSpan={2}>Prepaid Data SIM</th>
+                                <td>￦6,600 (1일권)</td>
+                                <td>￦27,500 (5일권)</td>
+                                <td> ￦38,500 (10일권)</td>
+                            </tr>
+                            <tr>
+                                <td>￦71,500 (30일권)</td>
+                                <td colSpan={2}></td>
+                            </tr>
+
+                            <tr>
+                                <th>기타상품</th>
+                                <td>WiFi Router</td>
+                                <td>휴대폰</td>
+                                <td>보조배터리</td>
+                            </tr>

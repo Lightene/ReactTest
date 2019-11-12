@@ -1,0 +1,13 @@
+p{
+    padding: 0;
+    margin: 0;
+}
+section{
+    margin-bottom: 50px;
+    position: relative;
+    overflow: hidden;
+}
+
+.table td{
+    vertical-align: middle;
+}
